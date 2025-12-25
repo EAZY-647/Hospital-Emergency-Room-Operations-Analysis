@@ -7,7 +7,7 @@ This project provides a comprehensive, data-driven evaluation of 9,216 patient e
 🔗 Live Interactive Dashboard
 
 You can view the live, interactive version of the dashboard here:
-https://app.powerbi.com/view?r=eyJrIjoiNWIxZmE3MzYtNzFiYy00NTRkLThmNmMtMWI1NDhhZWM0OTBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiNWIxZmE3MzYtNzFiYy00NTRkLThmNmMtMWI1NDhhZWM0OTBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3fef9643b86e01c759fa
 
 🗝️ Key Performance Indicators (KPIs)
 
